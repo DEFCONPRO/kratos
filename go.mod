@@ -103,7 +103,7 @@ require (
 	golang.org/x/sync v0.1.0
 	golang.org/x/text v0.12.0
 	golang.org/x/tools/cmd/cover v0.1.0-deprecated
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.3
 )
 
 require (
